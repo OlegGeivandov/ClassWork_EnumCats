@@ -1,0 +1,5 @@
+public enum CatBreed {
+    BRITISH_BLUE,  MAINE_COON, LOP_EARED, PERSIAN, SIBERIAN, NO_BREED;
+
+
+}
